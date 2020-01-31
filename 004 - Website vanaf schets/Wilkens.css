@@ -1,0 +1,65 @@
+table {
+    border: black;
+}
+
+header {
+    width: 960px;
+    height: 80px;
+    background-color: none;
+}
+
+main table table {
+    width: 475px;
+    height: 200px;
+    text-align: center;
+    margin-right: 0px;
+    margin-left: auto;
+    margin-top: 0px;
+    margin-bottom: auto;
+    font-family: 'Roboto Light', sans-serif;
+
+}
+main article {
+    width: 480px;
+    alignment: left;
+    margin-left: 0px;
+    margin-right: auto;
+    font-family: 'Roboto Light', sans-serif;
+
+}
+
+header a {
+    font-family: 'Roboto Light', sans-serif;
+    font-size: 22px;
+    color: black;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: cadetblue;
+}
+
+nav {
+
+}
+
+main {
+    width: 960px;
+    height: 500px;
+    background-color: none;
+}
+main img {
+    width: 960px;
+}
+
+footer {
+    width: 960px;
+    height: 25px;
+    background-color: cadetblue;
+    font-family: 'Roboto Light', sans-serif;
+    font-size: 14px;
+}
